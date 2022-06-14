@@ -1,6 +1,10 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author": "Nsubis Genesis",
+	"description": "Node demo based on FCC Backend and API course",
+	"keywords": ["freecodecamp", "backend", "package.json", "API", "NPM"],
+	"license": "MIT",
+	"version": "1.1.0",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
